@@ -1,0 +1,61 @@
+[Date]
+Date=26/03/2019
+Ore=0
+[NC]
+NC=40
+[C]
+C0=#PoWeR-Script.iNFo#ps.devilirc.net#DevilIRC#http://www.galaxy.wklm.it/scripts.php#off#Q##
+C1=#A-R-E-S#ip.dbhost.eu#OpenJoke#http://aes.dbhost.eu/scriptServer.php#on#FS#Tutte le NeWs - Aggiornamenti H24 - Web Link#
+C2=#INTERSECT#ip.dbhost.eu#OpenJoke#http://www.giocopazzo.it/lista/#on#GF##
+C3=#William&Carola#ip.dbhost.eu#OpenJoke#http://www.w-e-c.williamgattone.it/scripts.php#on#Q##
+C4=#Dimmer#ip.dbhost.eu#OpenJoke#http://www.open.beppotti.net/scripts.php#on#Q##
+C5=#TILT#ip.dbhost.eu#OpenJoke#http://37.187.177.113/scripts.php#on#Q##
+C6=#William&Gattone#iRC.WilliamGattone.It#iRC.WilliamGattone.It#http://www.w-e-g.williamgattone.it/scripts.php#on#YCGFMSW##
+C7=#JuMaNji#ps.devilirc.net#DevilIRC#http://ciccia.altervista.org/scripts.php#on#Q##
+C8=#UnIvErSo-StELLaTo#ip.dbhost.eu#OpenJoke#http://www.universostellato.irc-files.org/scripts.php#on#Q#Speed Limit: 300k#
+C9=#drakon#iRC.WilliamGattone.It#iRC.WilliamGattone.It#http://www.drakon.wklm.it/scripts.php#on#FMW##
+C10=#HiGH_VoLtAgE#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.high.voltage.wklm.it/scripts.php#on#Q##
+C11=#Sky-FaLL#iRC.WilliamGattone.It#iRC.WilliamGattone.It#http://www.skyfallmania2.wklm.it/scripts.php#on#FSY##
+C12=#PrOjEcT#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.towardsheaven.eu/u6k4wsb.php#on#Q##
+C13=#WONDERLAND#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.w0nder1and.wklm.it/#on#Q##
+C14=#byHoRRoR#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.byhorror.wklm.it/scripts.php#on#Q##
+C15=#bosco-delle-fragole#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.boscodellefragole.wklm.it/scripts.php#on#Q##
+C16=#THE-GHOST-CASTLE#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.ilcastellodighost.wklm.it/scripts.php#on#Q##
+C17=#MiStErO_DeL_CaNaLe#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.misterodelcanale.wklm.it/scripts.php#on#Q##
+C18=#GALACXY#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.galacxy.wklm.it/scripts.php#on#Q##
+C19=#horror#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.byhorror.wklm.it/scripts.php#on#Q##
+C20=#NEW_DOWNLOAD#irc.Artikanet.Org#iRC.Artikanet.Org#http://spacejam.ovh/4342342134234PeRiPoWeR.php#on#Q##
+C21=#IperMega#irc.Artikanet.Org#iRC.Artikanet.Org#http://bloomone.artikanet.org/listaipermega/scripts.php#on#Q##
+C22=#divinity#ip.dbhost.eu#OpenJoke#http://divinity.altervista.org/scripts.php#on#Q##
+C23=#GaLaXy#irc.Artikanet.Org#iRC.Artikanet.Org#http://www.galaxy.wklm.it/scripts.php#on#Q##
+C24=#PLANETARIO#irc.Artikanet.Org#iRC.Artikanet.Org#http://www.planetario.wklm.it/scripts.php#on#YCFRGWD##
+C25=#doublevi#irc.globalirc.it#GlobalIRC#http://www.doublevilist.eu/u6k4wsb.php#on#Q##
+C26=#Divx-Italia#irc.ItaLiaN-AmiCi.org#ItaLiaN-AmiCi#http://www.infinityshell.org/scripts.php#on#FGMCRYSW##
+C27=#La-VideOtEcA#irc.ItaLiaN-AmiCi.OrG#ItaLiaN-AmiCi#http://www.infinityshell.org/Videoteca/scripts.php#on#VFWY##
+C28=#solomusic#irc.arabaphoenix.net#arabaphoenix.net#http://themusic2019.altervista.org/scripts.php#off#FMSG#Speed Limit: 300k#
+C29=#angel_dreams#irc.arabaphoenix.net#arabaphoenix.net#http://angeldreams.altervista.org/index.php#off#Q##
+C30=#arabafenice#irc.arabaphoenix.net#arabaphoenix.net#http://www.phoenix2018.altervista.org/scripts.php#off#Q##
+C31=#GlobaL-CreW#irc.globalirc.it#GlobalIRC#http://mrchat.altervista.org/listaglobal/scripts.php#on#Q#Speed Limit: 500-1000k#
+C32=#R3voLuTioN-SeRieS#irc.QuartzNet.Org#QuartzNet#http://r3volution.altervista.org/index.php#on#Q##
+C33=#R3vOLuTioN#irc.QuartzNet.Org#QuartzNet#http://r3volution2.altervista.org/index.php#off#Q#Speed Limit: 500-1000k#
+C34=#oce@n#irc.OceanIRC.net#irc.OceanIRC.net#http://ocean.listax.eu/lwo/scripts.php#on#FGSBC#Speed Limit: 150-300k#
+C35=#Full_MuSic#irc.globalirc.it#GlobalIRC#http://mrchat.altervista.org/listafull/scripts.php#on#Q##
+C36=#cartoonlandia#irc.OceanIRC.Net#irc.OceanIRC.net#http://cartoonlandia.altervista.org/scripts.php#on#Q##
+C37=#CINEMANIA#irc.williamgattone.It#iRC.WilliamGattone.It#http://www.multisala.wklm.it/scripts.php#on#Q##
+C38=#loele#ip.dbhost.eu#OpenJoke#http://loele.altervista.org/scripts.php#on#Q##
+C39=#C.r.A.z.Y#irc.WilliamGattone.It#iRC.WilliamGattone.It#http://www.crazy.wklm.it/scripts.php#on#Q##
+C40=#TheSound#irc.OceanIRC.Net#irc.OceanIRC.net#http://ths.altervista.org/west/scripts.php#on#Q##
+[NS]
+NS=9
+[S]
+S1=ps.devilirc.net
+S2=ip.dbhost.eu
+S3=irc.WilliamGattone.It
+S4=irc.Artikanet.Org
+S5=irc.ItaLiaN-AmiCi.org
+S6=irc.arabaphoenix.net
+S7=irc.QuartzNet.Org
+S8=irc.OceanIRC.net
+S9=irc.globalirc.it
+Control=
+Fine.

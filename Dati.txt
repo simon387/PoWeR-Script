@@ -1,0 +1,8 @@
+[UP]
+User=Nick
+
+[ConnesioneCanali-AJ]
+ConnesioneCanali-AJ=ON
+
+[Color]
+Color=00

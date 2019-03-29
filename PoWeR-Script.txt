@@ -1,0 +1,21 @@
+PoWeR-Script.2019
+Rilasciato il 09/01/2019.
+
+Seconda Versione:
+Piccoli aggiornamenti
+
+Questo script è stato scaricato da:
+http://powerscript.altervista.org/
+L'utente usando lo script accetta implicitamente i termini del Disclaimer presente sul sito.
+
+Prima versione relativa al client IRC adiIRC Freeware, ovvero non richiede una licenza d'uso.
+
+il PoWeR-Script è stato parzialmente riscritto per consentire all'utente di avere le stesse funzionalità.
+I Menù sono gli stessi, l'interfaccia è molto simile, a sinistra vi sarà l'elenco delle network ove siete connessi, 
+sulla destra invece gli utenti del canale selezionato
+
+Per ulteriori informazioni consultare il sito, dove è presente una guida all'istallazione ed all'uso.
+
+Per richieste, o malfunzionamenti sul sito è presente un GuestBook.
+
+PoWeR
